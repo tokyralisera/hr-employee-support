@@ -67,6 +67,7 @@ L'API est accessible aux points de terminaison suivants:
 - Courriels: `http://localhost:8000/api/courriels/`
 - Administration: `http://localhost:8000/admin/`
 - Interface d'authentification API: `http://localhost:8000/api-auth/login/`
+- Interface de Swagger pour Documentation: `http://localhost:8000/swagger/`
 
 ## Structure des endpoints
 
